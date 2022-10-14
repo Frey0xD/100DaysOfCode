@@ -1,0 +1,1 @@
+print("Last" + "Dead" + "Lock")
